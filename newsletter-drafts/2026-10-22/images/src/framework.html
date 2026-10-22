@@ -1,0 +1,37 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+*{box-sizing:border-box;margin:0;padding:0}
+:root{--navy:#1F4E79;--ink:#1A1A1A;--grey:#555555;--paper:#F7F5F0}
+body{font-family:Inter,Helvetica,Arial,sans-serif;color:var(--ink)}
+.serif{font-family:Georgia,"DejaVu Serif",serif}
+.label{font-family:Inter,Helvetica,Arial,sans-serif;letter-spacing:.14em;text-transform:uppercase;font-size:18px;font-weight:600}
+
+body{width:1200px;height:628px;background:var(--paper);padding:44px 56px;position:relative}
+h2{font-size:34px;font-weight:700;color:var(--ink);line-height:1.2}
+.row{display:flex;gap:24px;margin-top:26px}
+.col{flex:1;border-radius:10px;padding:24px 24px 20px;height:350px}
+.col h3{font-size:34px;margin-bottom:8px}
+.def{font-size:19px;line-height:1.35;min-height:76px}
+.may{margin-top:16px;font-size:17px;line-height:1.35}
+.may b{display:block;letter-spacing:.1em;text-transform:uppercase;font-size:14px;margin-bottom:3px}
+.a{background:var(--navy);color:var(--paper)}
+.b{background:#fff;color:var(--ink);border:3px solid var(--navy)}
+.c{background:var(--paper);color:var(--ink);border:3px dashed var(--grey)}
+.foot{position:absolute;left:56px;right:56px;bottom:24px;font-size:19px;color:var(--grey);text-align:center}
+</style></head><body>
+<h2 class="serif">Let the label decide what an agent may do</h2>
+<div class="row">
+ <div class="col a"><h3 class="serif">Observed</h3>
+  <div class="def">A person said or did it, with a date and a source.</div>
+  <div class="may"><b>May</b>Move a deal stage. Send a message.</div>
+  <div class="may"><b>Needs</b>A source that is not you.</div></div>
+ <div class="col b"><h3 class="serif">Inferred</h3>
+  <div class="def">A model or a rule guessed.</div>
+  <div class="may"><b>May</b>Rank. Draft for a person to review.</div>
+  <div class="may"><b>May not</b>Send. Move a stage.</div></div>
+ <div class="col c"><h3 class="serif">Empty</h3>
+  <div class="def">Nobody knows yet.</div>
+  <div class="may"><b>May</b>Raise a question for a human.</div>
+  <div class="may"><b>Sometimes</b>Marks an open lane.</div></div>
+</div>
+<div class="foot">The less reversible the action, the more Observed it demands.</div>
+</body></html>
