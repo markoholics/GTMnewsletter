@@ -1,0 +1,24 @@
+{
+  "name": "weekly-gtm-newsletter",
+  "version": "1.0.0",
+  "description": "Reads GTM newsletters from Gmail every Thursday, drafts a long-form LinkedIn article with images, and emails the draft for review. Never publishes.",
+  "main": "src/run.js",
+  "scripts": {
+    "start": "node src/run.js",
+    "dry-run": "node src/run.js --mock --no-email",
+    "auth": "node scripts/auth.js",
+    "test": "node --test test/"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.1.0",
+    "googleapis": "^187.0.0",
+    "nodemailer": "^10.2.1",
+    "playwright": "^1.64.1",
+    "zod": "^4.6.7"
+  },
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  }
+}

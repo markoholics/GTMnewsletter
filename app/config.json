@@ -1,0 +1,13 @@
+{
+  "gmailQuery": "label:GTM-Newsletters newer_than:7d",
+  "gmailQueryFallback": "label:\"GTM Newsletters\" newer_than:7d",
+  "maxEmails": 25,
+  "minEmailChars": 800,
+  "selfAddresses": ["contact@markoholics.com"],
+  "recipient": "contact@markoholics.com",
+  "byline": "By Mohammad H. Rahman",
+  "model": "claude-opus-5-5",
+  "timezone": "Asia/Kolkata",
+  "wordRange": [1800, 2200],
+  "outputRoot": "newsletter-drafts"
+}
