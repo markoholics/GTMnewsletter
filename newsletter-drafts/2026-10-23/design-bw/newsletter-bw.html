@@ -20,7 +20,7 @@ h1{font-size:clamp(32px,6.4vw,46px);line-height:1.08;font-weight:800;letter-spac
 .stand{font-size:21px;line-height:1.4;color:var(--dim);margin-top:14px}
 .by{margin-top:22px;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;align-items:center;color:var(--dim)}
 .draft{background:var(--ink-bg);color:var(--ink-fg);padding:5px 9px}
-.acts{display:flex;gap:10px;flex-wrap:wrap;align-items:center;border-block:1px solid var(--line);padding-block:14px;margin-block:22px 34px}
+.acts-unused{display:flex;gap:10px;flex-wrap:wrap;align-items:center;border-block:1px solid var(--line);padding-block:14px;margin-block:22px 34px}
 button{font:600 14px var(--sans);background:transparent;color:var(--fg);border:1.5px solid var(--fg);border-radius:999px;padding:9px 18px;cursor:pointer}
 button:hover{background:var(--fg);color:var(--bg)}
 button:focus-visible{outline:3px solid var(--mid);outline-offset:2px}
@@ -42,12 +42,11 @@ figure img{display:block;width:100%;height:auto;background:#fff}
 .foot{margin-top:56px;padding-top:20px;border-top:2px solid var(--fg);color:var(--dim);font-size:14px;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
 </style>
 <div class="wrap">
-<div class="mast"><div class="top"><span class="dots"><i></i><i></i><i></i></span><span class="mono">gtm newsletter / long read</span></div>
-<div class="name">Mohammad H. Rahman<span> / GTM</span></div><div class="tag">A weekly read for founders, GTM leaders and growth marketers.</div></div>
+<div class="mast"><div class="top"><span class="dots"><i></i><i></i><i></i></span><span class="mono">newsletter / long read</span></div>
+<div class="name">Previously IN GTM</div><div class="tag">A weekly read for founders, GTM leaders and growth marketers.</div></div>
 <h1 id="headline">Decide what your growth loop pays in before you build it</h1>
 <p class="stand">A long read on the one contract term, hidden inside every invite scheme, creator programme and bonus plan, that decides whether growth compounds or fills with noise.</p>
-<div class="by mono"><span>By Mohammad H. Rahman &nbsp;|&nbsp; 23 Oct 2026</span><span class="draft">Draft: pending review</span></div>
-<div class="acts"><button id="ch" type="button">Copy headline</button><button id="ca" type="button">Copy article</button><span class="pr">Pull request: <a href="https://github.com/markoholics/GTMnewsletter/pull/1">#1</a>. Nothing is published to LinkedIn.</span><div id="msg" role="status"></div></div>
+<div class="by mono"><span>By Mohammad H. Rahman &nbsp;|&nbsp; 23 Oct 2026</span></div>
 <article id="art"><p><strong>Every growth loop pays somebody, and most founders never choose what it pays in.</strong></p>
 <p>Instinct, a personal AI agent you text or call like a human assistant, has reportedly reached a $10 billion valuation having spent $0 on marketing (per GTM Strategist). Nobody drew that up as a strategy. A compute bill did the planning, and the invite it forced the team to ration became the currency of the whole thing.</p>
 <p>I read this week's GTM newsletters looking for one idea that would change a decision. Three of them, written for different readers and never referring to each other, described the same hidden choice: what a company hands over in exchange for growth. An invite, a weekly payout, a variable bonus. This is a long read, because the choice has four parts, and the fourth is the one most teams skip.</p>
@@ -102,23 +101,5 @@ figure img{display:block;width:100%;height:auto;background:#fff}
 <p>Which growth programme in your company has a trigger you could not explain in one sentence?</p>
 <p>#GrowthMarketing #GTMStrategy #CreatorMarketing #RevOps #GTMEngineering #B2BGrowth #IncentiveDesign</p>
 </article>
-<div class="foot"><span class="mono">End of draft</span><span>Black, white and grey redesign. Original colour version is in the repo.</span></div>
+<div class="foot"><span class="mono">Previously IN GTM</span><span>By Mohammad H. Rahman</span></div>
 </div>
-<script>
-(function(){
-var msg=document.getElementById("msg");
-function say(t){msg.textContent=t}
-function fallbackCopy(text){var ta=document.createElement("textarea");ta.value=text;ta.style.position="fixed";ta.style.opacity="0";document.body.appendChild(ta);ta.select();var ok=false;try{ok=document.execCommand("copy")}catch(e){}document.body.removeChild(ta);return ok}
-document.getElementById("ch").addEventListener("click",function(){
- var t=document.getElementById("headline").textContent;
- var done=function(){say("Headline copied.")};
- var fb=function(){fallbackCopy(t)?done():say("Copy was blocked. Select the headline and copy it manually.")};
- if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(t).then(done,fb)}else{fb()}
-});
-document.getElementById("ca").addEventListener("click",function(){
- var node=document.getElementById("art"),ok=false;
- try{var r=document.createRange();r.selectNodeContents(node);var s=window.getSelection();s.removeAllRanges();s.addRange(r);ok=document.execCommand("copy")}catch(e){}
- say(ok?"Article copied with formatting. Images are not included; upload them from the repo folder.":"Copy was blocked. The article text is now selected; press Ctrl+C or Cmd+C.");
-});
-})();
-</script>
