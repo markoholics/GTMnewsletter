@@ -1,0 +1,26 @@
+{
+  "name": "PREVIOUSLY IN GTM",
+  "tagline": "A weekly read for founders, GTM leaders and growth marketers.",
+  "byline": "Mohammad H. Rahman",
+  "date_display": "23 Oct 2026",
+  "page_title": "Growth Loop Payments Draft",
+  "title": "Decide what your growth loop pays in before you build it",
+  "standfirst": "A long read on the one contract term, hidden inside every invite scheme, creator programme and bonus plan, that decides whether growth compounds or fills with noise.",
+  "cover_sub": "The contract term hidden inside every invite scheme, creator programme and bonus plan.",
+  "cover_tags": "Currency / Trigger / Clock / Ceiling",
+  "insight": {"label": "By the numbers", "number": "500 to 700", "text": "distinct ads a month, run by a single media buyer, once creators were paid on performance.", "source": "Source: GTM Weekly #31 (Work-Bench), reporting Wispr Flow's paid growth strategy. Reported, not audited."},
+  "quote": {"label": "Worth pinning above your desk", "text": "Scarcity on top of a mediocre product is just friction.", "attribution": "GTM Strategist newsletter, on Instinct's invite-only launch"},
+  "framework": {"title": "Four decisions behind every growth loop", "subtitle": "Ask them in order.", "footer": "The trigger is the one to argue over.", "items": [
+    {"name": "Currency", "question": "What are you handing over?", "example": "Cash, access, status, freedom from a target."},
+    {"name": "Trigger", "question": "What event releases it?", "example": "Prefer one you control or can verify, close to a closed deal."},
+    {"name": "Clock", "question": "How often is it paid?", "example": "Match your sales cycle, not the playbook you borrowed."},
+    {"name": "Ceiling", "question": "What stops it?", "example": "A cap protects budget. No cap says: more of what works."}]},
+  "diagram": {"before_label": "Before: pay on an event the payee reports", "before_nodes": ["Creator films ad", "Sign-ups claimed", "Monthly payout", "Quality unknown"], "before_dashed": [1, 2, 3], "before_note": "The trigger is easy to inflate and the clock is slower than the creator's patience.",
+    "after_label": "After: pay on a signal the payer controls", "after_nodes": ["Creator films ad", "Buyer backs ad with spend", "Weekly payout", "Good creators stay"], "after_highlight": 2, "after_note": "Spend only flows to ads that work, and a short clock keeps good creators paid while deals mature.",
+    "footnote": "A teaching diagram, not a reported case. Wispr's terms are described in GTM Weekly #31.", "insert_before": "<p>There is a fair objection here."},
+  "alts": {
+    "quote-card.png": "Quote card: Scarcity on top of a mediocre product is just friction, attributed to GTM Strategist",
+    "insight-card.png": "Large 500 to 700: distinct ads a month, run by one media buyer, per GTM Weekly",
+    "framework.png": "Four boxes in order: Currency, Trigger, Clock and Ceiling, each with the question to ask",
+    "before-after.png": "Before and after diagram: paying on a reported event versus paying on a signal the payer controls"}
+}
