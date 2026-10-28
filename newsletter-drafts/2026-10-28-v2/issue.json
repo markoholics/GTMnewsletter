@@ -1,0 +1,30 @@
+{
+  "name": "PREVIOUSLY IN GTM",
+  "tagline": "A weekly read for founders, GTM leaders and growth marketers.",
+  "byline": "Mohammad H. Rahman",
+  "date_display": "28 Oct 2026",
+  "page_title": "Buying Signal Clock Draft",
+  "title": "Every buying signal has a clock. Most teams never read it",
+  "standfirst": "A long read on why the most valuable column in your signal list is the one almost nobody fills in: how long the buyer's window stays open.",
+  "cover_sub": "The most valuable column in your signal list is the one almost nobody fills in.",
+  "cover_tags": "Threshold / Window / Reflex / Owner",
+  "insight": {"label": "By the numbers", "number": "33 days", "text": "to fix a cancelled insurance policy, with ten already gone by the time a trucking company's owner hears of it.", "source": "Source: Cannonball GTM (Doug Bell), trucking example. Reported, not audited."},
+  "quote": {"label": "Worth pinning above your desk", "text": "Public. Dated. Deadly.", "attribution": "Doug Bell, Cannonball GTM"},
+  "framework": {"title": "Four questions for every buying signal", "subtitle": "Ask them before a signal earns budget.", "footer": "Rule of thumb (the author's own): window at least five times your reflex.", "items": [
+    {"name": "Threshold", "question": "When does it change the buyer's situation?", "example": "A cancelled policy does. A page visit rarely does."},
+    {"name": "Window", "question": "How long before the moment passes?", "example": "Hours, days or weeks, written down."},
+    {"name": "Reflex", "question": "How fast do you really answer?", "example": "Measured from signal to a human touch."},
+    {"name": "Owner", "question": "Who acts without asking?", "example": "One named person with authority to call."}]},
+  "news_cover": {
+    "kicker": "Breaking", "dateline": "Signals / 28 Oct 2026",
+    "headline": "Every buying signal has a clock: read it before you buy more",
+    "deck": "Four questions before a signal earns budget: Threshold, Window, Reflex, Owner.",
+    "tags": "Read the long version",
+    "alts": [
+      {"headline": "Window minus reply time: the sum most signal lists fail", "deck": "A signal is worth the window it opens, less the time you take to answer.", "size": 80},
+      {"headline": "Time your front door before you buy another signal", "deck": "Submit your own demo form and count the hours until a human replies.", "size": 82}]},
+  "alts": {
+    "quote-card.png": "Quote card: Public. Dated. Deadly., attributed to Doug Bell of Cannonball GTM",
+    "insight-card.png": "Large 33 days: the time a trucking company has to fix a cancelled insurance policy, per Cannonball GTM",
+    "framework.png": "Four boxes in order: Threshold, Window, Reflex and Owner, each with the question to ask"}
+}
