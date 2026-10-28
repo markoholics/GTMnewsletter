@@ -1,0 +1,22 @@
+{
+  "name": "PREVIOUSLY IN GTM",
+  "tagline": "A weekly read for founders, GTM leaders and growth marketers.",
+  "byline": "Mohammad H. Rahman",
+  "date_display": "28 Oct 2026",
+  "page_title": "Renewal Memo Draft",
+  "title": "Write the renewal memo before the first deal is signed",
+  "standfirst": "A long read on the one page document your buyer's champion will need in ninety days, and why the best operators this week were quietly drafting it on day one.",
+  "cover_sub": "The one page document your buyer's champion will need in ninety days.",
+  "cover_tags": "Claim / Baseline / Slice / Schedule",
+  "insight": {"label": "By the numbers", "number": "25 hours", "text": "average wait for an inbound lead at monday.com in early 2025. Under two minutes once AI agents took the first call.", "source": "Source: GTM Engineering newsletter (Alex Lindahl), reporting Oran Akron. Reported, not audited."},
+  "quote": {"label": "Worth pinning above your desk", "text": "You land in brand marketing and expand in growth marketing.", "attribution": "Kyle Poyar, Growth Unhinged"},
+  "framework": {"title": "Four lines of a renewal memo", "subtitle": "Draft them before the first deal is signed.", "footer": "Leave the numbers blank. Fill them in as you report.", "items": [
+    {"name": "Claim", "question": "What will the champion say out loud?", "example": "A sentence with a number in it, not a mood."},
+    {"name": "Baseline", "question": "What is the figure today?", "example": "Agreed in writing before anything changes."},
+    {"name": "Slice", "question": "Where can the claim fail cheaply?", "example": "One region, segment, placement or creator."},
+    {"name": "Schedule", "question": "When do you report unprompted?", "example": "Early, then again. Even when the number is dull."}]},
+  "alts": {
+    "quote-card.png": "Quote card: you land in brand marketing and expand in growth marketing, attributed to Kyle Poyar",
+    "insight-card.png": "Large 25 hours: average wait for an inbound lead at monday.com, cut to under two minutes, per GTM Engineering",
+    "framework.png": "Four boxes in order: Claim, Baseline, Slice and Schedule, each with the question to ask"}
+}
