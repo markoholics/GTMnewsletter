@@ -15,6 +15,14 @@
     {"name": "Baseline", "question": "What is the figure today?", "example": "Agreed in writing before anything changes."},
     {"name": "Slice", "question": "Where can the claim fail cheaply?", "example": "One region, segment, placement or creator."},
     {"name": "Schedule", "question": "When do you report unprompted?", "example": "Early, then again. Even when the number is dull."}]},
+  "news_cover": {
+    "kicker": "Breaking", "dateline": "Renewals / 28 Oct 2026",
+    "headline": "The memo your champion needs in 90 days: write it on day one",
+    "deck": "Four lines, drafted before the first deal is signed: Claim, Baseline, Slice, Schedule.",
+    "tags": "Read the long version",
+    "alts": [
+      {"headline": "Renewal memo due before the first deal is signed", "deck": "The one page document your buyer's champion will need in ninety days.", "size": 82},
+      {"headline": "Day one: draft the page your champion will ask for later", "deck": "Claim, Baseline, Slice, Schedule. Four lines to write before the deal is signed.", "size": 76}]},
   "alts": {
     "quote-card.png": "Quote card: you land in brand marketing and expand in growth marketing, attributed to Kyle Poyar",
     "insight-card.png": "Large 25 hours: average wait for an inbound lead at monday.com, cut to under two minutes, per GTM Engineering",
