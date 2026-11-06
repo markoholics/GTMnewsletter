@@ -1,0 +1,21 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+*{box-sizing:border-box;margin:0;padding:0}
+:root{--k:#0A0A0A;--w:#FFFFFF;--g1:#F2F2F2;--g2:#D4D4D4;--g3:#8C8C8C;--g4:#555555}
+body{font-family:Inter,Helvetica,Arial,sans-serif;color:var(--k);background:var(--w)}
+.mono{font-family:"DejaVu Sans Mono",Menlo,monospace;text-transform:uppercase;letter-spacing:.12em;font-size:14px;font-weight:600}
+.dots{display:flex;gap:8px}.dots i{width:13px;height:13px;border:2px solid var(--k);border-radius:50%;display:block}
+.win{border:3px solid var(--k);background:var(--w);box-shadow:10px 10px 0 var(--k)}
+.bar{display:flex;align-items:center;gap:16px;padding:11px 18px;border-bottom:3px solid var(--k);background:var(--g1)}
+.blk{background:var(--k);color:var(--w)}
+body{width:1280px;height:720px;padding:64px 80px;background:var(--g1)}
+.win{height:592px;display:flex;flex-direction:column}
+.in{padding:44px 56px;flex:1;position:relative}
+h1{font-size:68px;line-height:1.08;font-weight:800;letter-spacing:-.025em;max-width:1000px}
+.sub{font-size:26px;line-height:1.4;color:var(--g4);margin-top:26px;max-width:880px}
+.by{position:absolute;left:56px;bottom:36px;right:56px;display:flex;justify-content:space-between;align-items:center;border-top:2px solid var(--g2);padding-top:18px}
+.by b{font-size:24px}
+</style></head><body><div class="win"><div class="bar"><div class="dots"><i></i><i></i><i></i></div><span class="mono" style="color:var(--g4)">{{name}} / long read</span></div>
+<div class="in"><h1>{{title}}</h1>
+<div class="sub">{{cover_sub}}</div>
+<div class="by"><b>{{byline}}</b><span class="mono" style="color:var(--g3)">{{cover_tags}}</span></div></div></div>
+</body></html>
