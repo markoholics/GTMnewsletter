@@ -53,6 +53,12 @@ def main(cfg_path):
             return '<div class="p"><div class="h mono blk"><span>%s</span><span>Illustration</span></div><div class="flow">%s</div><div class="note">%s</div></div>' % (E(label), ''.join(cells), E(note))
         panels = panel(d['before_label'], d['before_nodes'], d['before_note'], dashed=d.get('before_dashed', [])) + panel(d['after_label'], d['after_nodes'], d['after_note'], hl=d.get('after_highlight'))
         page('before-after.html', fill(tpl('before-after.html'), panels=panels, footnote=E(d['footnote'])), 1200, 628)
+    nc = cfg.get('news_cover')
+    if nc:
+        variants = [dict(nc)] + [dict(nc, **a) for a in nc.get('alts', [])]
+        for n, v in enumerate(variants):
+            fn = 'news-cover' + ('' if n == 0 else '-alt%d' % n)
+            page(fn + '.html', fill(tpl('news-cover.html'), name=E(name), kicker=E(v.get('kicker', 'Breaking')), dateline=E(v.get('dateline', cfg['date_display'])), headline=E(v['headline']), deck=E(v['deck']), byline=E(byline), tags=E(v.get('tags', cfg.get('cover_tags', ''))), size=str(v.get('size', 72))), 1280, 720)
     page('newsletter-cover.html', fill(tpl('newsletter-cover.html'), name=E(name), tagline=E(cfg['tagline'])), 1280, 720, png='newsletter-cover.jpg', scale=2, typ='jpeg')
 
     jp = os.path.join(src, 'jobs.json'); json.dump(jobs, open(jp, 'w'))
