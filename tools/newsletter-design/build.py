@@ -53,6 +53,8 @@ def main(cfg_path):
             return '<div class="p"><div class="h mono blk"><span>%s</span><span>Illustration</span></div><div class="flow">%s</div><div class="note">%s</div></div>' % (E(label), ''.join(cells), E(note))
         panels = panel(d['before_label'], d['before_nodes'], d['before_note'], dashed=d.get('before_dashed', [])) + panel(d['after_label'], d['after_nodes'], d['after_note'], hl=d.get('after_highlight'))
         page('before-after.html', fill(tpl('before-after.html'), panels=panels, footnote=E(d['footnote'])), 1200, 628)
+    page('header-cover.html', fill(tpl('header-cover.html'), name=E(name), title=E(cfg['title']), byline=E(byline), date=E(cfg['date_display']), size=str(cfg.get('header_cover_size', 84))), 1280, 720)
+    page('header-cover@2x.html', fill(tpl('header-cover.html'), name=E(name), title=E(cfg['title']), byline=E(byline), date=E(cfg['date_display']), size=str(cfg.get('header_cover_size', 84))), 1280, 720, png='header-cover-2x.png', scale=2)
     nc = cfg.get('news_cover')
     if nc:
         variants = [dict(nc)] + [dict(nc, **a) for a in nc.get('alts', [])]
