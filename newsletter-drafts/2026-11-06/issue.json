@@ -1,0 +1,22 @@
+{
+  "name": "PREVIOUSLY IN GTM",
+  "tagline": "A weekly read for founders, GTM leaders and growth marketers.",
+  "byline": "Mohammad H. Rahman",
+  "date_display": "6 Nov 2026",
+  "page_title": "Rent Channels Own List Draft",
+  "title": "Rent your channels. Own the list that travels between them",
+  "standfirst": "A long read on what changed in startup go to market over the last year, and the one column in your plan that nobody on your team owns.",
+  "cover_sub": "The one column in your go to market plan that nobody on your team owns.",
+  "cover_tags": "List / Owner / Signal / Exit",
+  "insight": {"label": "By the numbers", "number": "20% to 32%", "text": "Meta's share of PLG ad budgets between last November and August, as B2B teams moved money between channels.", "source": "Source: Growth Unhinged (Kyle Poyar), citing Primer benchmarks of 379 B2B advertisers. Reported, not audited."},
+  "quote": {"label": "Worth pinning above your desk", "text": "As narrow and as short as possible.", "attribution": "Jorge B. Macías, on the account list, via GTM Engineer Pulse #48"},
+  "framework": {"title": "Four questions before a channel gets budget", "subtitle": "Ask them of the list, not the platform.", "footer": "The exit question is the author's own test.", "items": [
+    {"name": "List", "question": "Who exactly are you reaching?", "example": "One scored list, short enough to name in a meeting."},
+    {"name": "Owner", "question": "Who keeps it honest?", "example": "One person who can say no to a channel."},
+    {"name": "Signal", "question": "What do you send back?", "example": "The lowest funnel event with enough weekly volume."},
+    {"name": "Exit", "question": "How fast can you move?", "example": "Working days to shift a third of paid spend."}]},
+  "alts": {
+    "quote-card.png": "Quote card: As narrow and as short as possible, attributed to Jorge B. Macías via GTM Engineer Pulse",
+    "insight-card.png": "Large 20% to 32%: Meta's share of PLG ad budgets from last November to August, per Growth Unhinged",
+    "framework.png": "Four boxes in order: List, Owner, Signal and Exit, each with the question to ask"}
+}
