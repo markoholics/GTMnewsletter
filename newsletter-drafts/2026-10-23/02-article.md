@@ -1,0 +1,100 @@
+**DRAFT: pending Remmy review**
+
+[IMAGE 1: cover.png, Cover: Decide what your growth loop pays in before you build it, white serif type on navy]
+
+# Decide what your growth loop pays in before you build it
+
+*A long read on the one contract term, hidden inside every invite scheme, creator programme and bonus plan, that decides whether growth compounds or fills with noise.*
+
+*By Mohammad H. Rahman*
+
+**Every growth loop pays somebody, and most founders never choose what it pays in.**
+
+Instinct, a personal AI agent you text or call like a human assistant, has reportedly reached a $10 billion valuation having spent $0 on marketing (per GTM Strategist). Nobody drew that up as a strategy. A compute bill did the planning, and the invite it forced the team to ration became the currency of the whole thing.
+
+I read this week's GTM newsletters looking for one idea that would change a decision. Three of them, written for different readers and never referring to each other, described the same hidden choice: what a company hands over in exchange for growth. An invite, a weekly payout, a variable bonus. This is a long read, because the choice has four parts, and the fourth is the one most teams skip.
+
+## A rationing decision that became a growth engine
+
+Here is what happened at Instinct, as GTM Strategist tells it. Running a personal agent for every user burns a great deal of compute, so the team limited access: a private beta from February, then an invite-only beta where every user received five invites to pass on. The product reportedly grew about 10% a day, invites were resold on eBay, and newsletters began giving them to paid subscribers (per GTM Strategist). Within seven months it had a reported 100,000 or more users.
+
+The author, who signs off as Maja, warns against copying the waitlist and nothing else. Instinct had a real constraint, a product people wanted to talk about, and a built-in way to share. I would add a reading of my own. The five invites were a currency: finite, transferable, and worth something to the receiver because the product behind them worked. The eBay listings were the market quietly setting a price.
+
+That reading also explains the sentence from that piece that I would pin above a founder's desk.
+
+> "Scarcity on top of a mediocre product is just friction." (GTM Strategist)
+
+[IMAGE 2: quote-card.png, Quote card: Scarcity on top of a mediocre product is just friction, attributed to GTM Strategist]
+
+A currency only holds its value when something real stands behind it. Ration a product nobody wants and all you have built is a queue for an empty room.
+
+## A creator paid every seven days
+
+Now move from users to creators. Wispr Flow, on its reported path to a $2 billion valuation, stopped posting organic content altogether and borrowed the playbook of direct to consumer brands: recruit creators, have them film ads, pay them on performance (per GTM Weekly, the Work-Bench newsletter, drawing on a thread by Ira Bodnar about Wispr's paid growth lead, Hector Serrano). The reasoning is specific. Meta's retrieval system reportedly groups videos that are 50% to 60% similar and suppresses them, so a thousand talking head ads can be treated as one. Paid creative rewards variety over a single moment of genius.
+
+The result, as reported, was 500 to 700 distinct ads a month, run by a single media buyer. Each creator covers a gap: a customer segment no other ad speaks to, a format nobody has shot, a country with nothing running (per GTM Weekly).
+
+[IMAGE 3: insight-card.png, Large navy 500 to 700: distinct ads a month, run by one media buyer, per GTM Weekly]
+
+The payment terms are the clever part. Ecommerce creators usually earn a cut of each sale, because a sale takes minutes. A software deal takes weeks, so Wispr reportedly pays 7% of ad spend, uncapped, every seven days, with a guaranteed minimum for new creators so that good ones stay long enough to find their feet (per GTM Weekly). Keep the mechanism, reset the clock. That is the newsletter's phrase for it, and I would put it on the same wall as Maja's.
+
+## Why spend is a hard number to fake
+
+Why pay on spend, though, and not on sign-ups or views? Because of who controls the number. Consider what each trigger invites. Pay a creator per view and they will chase the cheapest views. Pay per sign-up and they will chase sign-ups from people who will never activate. Pay per booked demo and, well, whoever said you get what you pay for clearly never paid a freelancer per booked demo and received forty meetings with undergraduates.
+
+Spend behaves differently, on my reading of the terms. The newsletter does not say so in as many words, and I am inferring that the 7% applies to spend on the creator's own ads. If so, the media buyer decides where the money goes, and the money only flows towards ads that already work. The creator cannot inflate it. They can only earn it, by making something that the buyer, and the algorithm behind the buyer, chooses to back.
+
+There is a fair objection here. Spend rewards whichever ad the algorithm happens to favour in its first few days, and a good ad can starve before it is seen. That is exactly the gap the guaranteed minimum covers. Concede that, and the design principle still stands: the safest trigger is one the payer controls, or can check, without taking the payee's word for it.
+
+## The rep paid five per cent
+
+The same logic shows up in a corner of the market that looks nothing like creator ads. Brendan, who writes The Signal, describes a career spent on both sides of a line that GTM leaders keep asking about. At Zoom, in RevOps, the variable pay was about 5% of target, tied to goals such as building a playbook, redoing a comp plan and integrating a new tool. At Apollo, as a GTM engineer, it was about 25%, because the goals were countable: book 1,600 meetings a quarter into net new accounts without any SDRs, and 400 cross sell meetings into the existing customer base (per The Signal).
+
+The difference explains the roles. RevOps, in that framing, is the system of record: structure, consistent process, data a leadership team can trust. GTM engineering is the system of action, the people who own motion and are measured on outcomes. The newsletter counts roughly 1,350 full time GTM engineers today, about half of whom report into RevOps, and says the number has tripled since January after growing fivefold in 2025 (per The Signal, using Sumble data).
+
+Read as a pay design, the comparison is candid about something the org chart hides. Two roles sitting next to each other are paid in different currencies, on different triggers, because one produces things that can be counted at the end of a quarter and the other produces things that cannot. Neither is wrong. But a founder who copies the 25% plan without a trigger that is hard to inflate will find out how many meetings a motivated person can book.
+
+Datarails shows the opposite choice made deliberately. Its CRO and CMO, Aviv Canaani, gives the VP of Brand no revenue targets at all and measures engagement from the ideal customer profile instead, because, as the GTMnow episode puts it, you would never approve a funny meme if you had to attribute pipeline to it (per GTMnow). The latitude was earned first by hitting pipeline targets through paid media, and attribution is cross checked four ways that often disagree. A deliberately soft currency, protected by a hard one somewhere else in the system.
+
+## Four decisions, in order
+
+Put the three cases side by side and the same questions appear, whether the payee is a user, a creator or a rep. I find it useful to ask them in this order.
+
+**Currency.** What are you handing over? Money, access, status, a share of something? Instinct paid in access, Wispr in cash, Datarails' brand team in freedom from a number.
+
+**Trigger.** What event releases the payment? This is where most schemes go wrong, because the easiest event to measure is usually the easiest to inflate. Prefer an event you control or can verify yourself, and one that sits as close to a closed deal as you can reach.
+
+**Clock.** How often is it paid? Match it to your sales cycle, not to the habits of the playbook you borrowed. A seven day payout makes sense when a creator needs to see money long before a deal closes.
+
+**Ceiling.** What stops the payment? A cap protects your budget and also tells the payee when to stop trying. Wispr's uncapped terms say the opposite: for as long as an ad works, we want more of it.
+
+[IMAGE 4: framework.png, Four boxes in order: Currency, Trigger, Clock and Ceiling, each with the question to ask]
+
+## Where this breaks
+
+I should be plain about how thin the evidence is. Wispr's terms reach us second hand, through an X thread summarised by a venture fund's newsletter. Instinct's numbers are reported, not audited. Brendan's pay figures are a recollection of two roles held in the past. None of this is a controlled test, and I would not build a company on it. I would build a better contract on it.
+
+Product still comes first. GTM Strategist's own counter example is OpenAI's Dots, an always on agent launched at DevDay on 29 September to one of the largest audiences in technology, which drew a Hacker News thread of more than 640 comments and a mixed reception because many developers could not work out what it was for (per GTM Strategist). A lavish currency cannot rescue something people do not want.
+
+And the clock can run too fast. Pay weekly on a trigger that takes eight weeks to prove and you will fund a month of noise before you learn anything. Pay too slowly and the good creators leave, which is why the guaranteed minimum exists.
+
+## What this means for your next quarter
+
+Three things a founder can do this week.
+
+1. **Write down the payment terms of every growth programme you run.** Referral rewards, creator briefs, agency retainers, a rep's variable plan. For each, put four words beside it: currency, trigger, clock, ceiling. Any programme where you cannot fill in the trigger in one sentence has a problem you have not met yet.
+2. **Swap one trigger for something you control.** If you pay per lead, per demo or per view, find the nearest event you can verify yourself, such as spend on the asset, an activated account or a meeting that reached the stage you care about. Pilot it with one partner for thirty days.
+3. **Reset one clock to your sales cycle.** If a deal takes eight weeks and your best partner is paid monthly on a lagging event, move to a shorter interval on an earlier signal and add a small guaranteed minimum for the first period. Then check whether the partners you most wanted to keep are still there at day sixty.
+
+## Sources and further reading
+
+- [GTM Strategist (Maja): The 4 Components of a Viral AI Product Launch](https://knowledge.gtmstrategist.com/p/viral-ai-product-launch)
+- [GTM Weekly #31 (Work-Bench): Bringing the DTC Ads Playbook to B2B](https://workbench.substack.com/p/gtm-weekly-31-bringing-the-dtc-ads)
+- [The Signal (Brendan): The Swim Lanes Between RevOps and GTM Engineering](https://www.thesignal.club/p/the-swim-lanes-between-revops-and-gtm-engineering)
+- [GTMnow Newsletter: Aviv Canaani of Datarails](https://thegtmnewsletter.substack.com/p/gtm-210-outbound-to-inbound-strategy-aviv-canaani-datarails)
+
+Every loop pays in something, so choose the something before the market chooses it for you.
+
+Which growth programme in your company has a trigger you could not explain in one sentence?
+
+#GrowthMarketing #GTMStrategy #CreatorMarketing #RevOps #GTMEngineering #B2BGrowth #IncentiveDesign
