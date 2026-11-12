@@ -1,0 +1,23 @@
+{
+  "name": "PREVIOUSLY IN GTM",
+  "tagline": "A weekly read for founders, GTM leaders and growth marketers.",
+  "byline": "Mohammad H. Rahman",
+  "date_display": "12 Nov 2026",
+  "page_title": "Build Versus Buy Job By Job Draft",
+  "title": "Stop debating build versus buy. Ask it job by job instead",
+  "standfirst": "A read on the test that decides whether a new tool earns a seat in your go to market stack, and the habit that quietly wastes the most money in it.",
+  "cover_sub": "The test that decides whether a new tool earns a seat in your go to market stack.",
+  "cover_tags": "Job / Checkable / Compounding / Headcount",
+  "insight": {"label": "By the numbers", "number": "110 mentions", "text": "Claude named as the most impactful GTM tool by respondents, more than 3x the next closest vendor.", "source": "Source: Growth Unhinged (Kyle Poyar and Maja Voje), 2026 State of B2B GTM report, 300 respondents, Sept 2026. Self-reported survey data, not audited."},
+  "quote": {"label": "Worth pinning above your desk", "text": "The vendors sell the stopwatch, not the time.", "attribution": "Marty Berman, GTM Tool Time, \"Lead Routing, Reviewed\""},
+  "framework": {"title": "Four questions before a tool earns a seat", "subtitle": "Ask them of the job, not the logo.", "footer": "The headcount question is the one most renewals skip.", "items": [
+    {"name": "Job", "question": "What exact job is this hired to do?", "example": "One sentence, not a feature list."},
+    {"name": "Checkable", "question": "Can an outsider verify the claim?", "example": "Public filings and changelogs beat a vendor's own benchmark."},
+    {"name": "Compounding", "question": "Does it improve with your own data?", "example": "Or does it reset at midnight, rented capacity either way."},
+    {"name": "Headcount", "question": "Does something already do this job?", "example": "Name the marginal coverage the new tool adds."}]},
+  "alts": {
+    "quote-card.png": "Quote card: The vendors sell the stopwatch, not the time, attributed to Marty Berman, GTM Tool Time",
+    "insight-card.png": "Large stat: Claude named by 110 respondents as the most impactful GTM tool, more than 3x the next vendor, per Growth Unhinged",
+    "framework.png": "Four boxes in order: Job, Checkable, Compounding and Headcount, each with the question to ask"
+  }
+}
