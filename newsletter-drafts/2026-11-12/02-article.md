@@ -1,8 +1,8 @@
 **DRAFT: pending Remmy review**
 
-[IMAGE 1: header-cover.png, Cover: Stop debating build versus buy. Ask it job by job instead, black type on white with a window bar]
+[IMAGE 1: header-cover.png, Cover: Your GTM stack has a build-or-buy problem nobody's solved yet, black type on white with a window bar]
 
-# Stop debating build versus buy. Ask it job by job instead
+# Your GTM stack has a build-or-buy problem nobody's solved yet
 
 *A read on the test that decides whether a new tool earns a seat in your go to market stack, and the habit that quietly wastes the most money in it.*
 
