@@ -1,0 +1,22 @@
+{
+  "name": "PREVIOUSLY IN GTM",
+  "tagline": "A weekly read for founders, GTM leaders and growth marketers.",
+  "byline": "Mohammad H. Rahman",
+  "date_display": "19 Nov 2026",
+  "page_title": "Agent Readiness Draft",
+  "title": "Most AI agents can't finish what they start on your site",
+  "standfirst": "A long read on why the rush to build go to market for AI agents is outrunning the evidence that agents can act on it, and what to fix this quarter regardless.",
+  "cover_sub": "Why the rush to build go to market for AI agents is outrunning the evidence that agents can act on it.",
+  "cover_tags": "Evidence / Control / Cost / Reversal",
+  "insight": {"label": "By the numbers", "number": "2 of 24", "text": "chat only AI agents that finished a real booking task without a browser of their own, in a 20 assistant test.", "source": "Source: The GTM Engineering Newsletter, reporting AI Search Leaders' flight booking test. Reported, not audited."},
+  "quote": {"label": "Worth pinning above your desk", "text": "Our listing text was the whole storefront.", "attribution": "Lukas Campos, founder of Audioscape, via The GTM Engineering Newsletter"},
+  "framework": {"title": "Four questions before an agent-readiness project gets a budget line", "subtitle": "Ask them in order.", "footer": "A project that fails all four has not earned this quarter's engineering time.", "items": [
+    {"name": "Evidence", "question": "Has an agent actually completed this task?", "example": "Not discussed it. Completed it, with evidence shown."},
+    {"name": "Control", "question": "Who decides whether you get shown?", "example": "If you cannot request it, you cannot plan around it."},
+    {"name": "Cost", "question": "Would you build this page anyway?", "example": "For a human evaluating you at 11pm, not just a model."},
+    {"name": "Reversal", "question": "What happens when the platform changes its mind?", "example": "A route that can vanish overnight is upside, not a plan."}]},
+  "alts": {
+    "quote-card.png": "Quote card: Our listing text was the whole storefront, attributed to Lukas Campos of Audioscape via The GTM Engineering Newsletter",
+    "insight-card.png": "Large 2 of 24: chat only AI agents that finished a real booking task without a browser of their own, per The GTM Engineering Newsletter",
+    "framework.png": "Four boxes in order: Evidence, Control, Cost and Reversal, each with the question to ask before building for an agent audience"}
+}
