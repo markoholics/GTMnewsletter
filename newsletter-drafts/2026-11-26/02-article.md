@@ -32,6 +32,8 @@ GTM Tool Time spent its latest issue trying to answer a narrower version of that
 
 It found exactly one vendor willing to show the math. Demandbase published a true precision figure for its own account scoring model: in one customer's data, accounts in the top band opened an opportunity within 30 days 31.5% of the time (per GTM Tool Time, citing a Demandbase blog post). Every other vendor in the review answered the accuracy question with scale instead, citing trillions of signals and billions of profiles rather than a measured hit rate.
 
+[IMAGE 2: insight-card.png, Large 31.5%: the top band hit rate one vendor published for its own account scoring model, per GTM Tool Time]
+
 That is not a coincidence of writing style. It is what a category looks like when accuracy is the thing nobody wants to measure out loud, because the honest number is often underwhelming and the impressive number is always available. A vendor can always report more data. Reporting a correct answer is harder, and rarer.
 
 The newsletter traced the industry's favourite excuse for skipping that measurement back to its source, and the source turns out to be thinner than the pitch decks built on it. The widely quoted claim that roughly 95% of business buyers are never in market at any one time comes from a single researcher who calls it a heuristic, not a measured rule, built on little more than an observation that companies switch banks and law firms every five years (per GTM Tool Time, citing Professor John Dawes). Forrester's own buyer survey cuts the other way entirely: 68% of buyers now start a purchase with a preferred vendor already in mind, and that vendor wins 55% of the time (per GTM Tool Time, citing Forrester). An industry priced in the billions is still running on a heuristic nobody measured and a founding statistic that may already be out of date.
@@ -52,6 +54,8 @@ Her answer has five parts, and none of them are exotic. Name the business result
 
 Her own line on the habit she is defending is the kind of sentence that survives being pinned above a desk: "You know it when you see it in the data." It is aimed at marketers who defend brand spend on instinct, but it reads just as well aimed at a founder about to renew a data vendor on the strength of a sales deck.
 
+[IMAGE 3: quote-card.png, Quote card: You know it when you see it in the data, attributed to Kelly Megel via Cannonball GTM]
+
 Whoever said you can't measure the unmeasurable clearly never watched a fractional CMO turn reach and impressions into a ledger a CFO would sign off on.
 
 ## The missing mechanism
@@ -63,6 +67,8 @@ A quit rule is not a review. A quarterly tool audit happens after the money is s
 The same applies to agents. The Signal's ladder tells you how to earn more autonomy. It does not tell you, in writing, what number would make you take autonomy away again once you have granted it. A quit rule does exactly that, for a tool or an agent, and it costs nothing to write except the discomfort of admitting the thing might fail.
 
 None of this requires new software. Clay's agent, the Swarm's warm intro system, the 30 build ideas MKT1 published for marketers this month: every one of them can carry a quit rule without changing a line of code, because the quit rule lives in a document, not a platform. The barrier was never technical. It was that nobody borrowed the habit from the one function already keeping these books.
+
+[IMAGE 4: framework.png, Four boxes in order: Metric, Deadline, Owner and Control, each with the question to ask before signing]
 
 ## What this means for your next quarter
 
