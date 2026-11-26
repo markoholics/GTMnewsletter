@@ -1,0 +1,22 @@
+{
+  "name": "PREVIOUSLY IN GTM",
+  "tagline": "A weekly read for founders, GTM leaders and growth marketers.",
+  "byline": "Mohammad H. Rahman",
+  "date_display": "26 Nov 2026",
+  "page_title": "Quit Rule Draft",
+  "title": "The quit rule your GTM stack doesn't have",
+  "standfirst": "A long read on why the GTM stack keeps growing, why almost nobody can prove any one piece of it is working, and the one discipline brand marketing already built that tooling hasn't borrowed yet.",
+  "cover_sub": "Why almost nobody can prove any one piece of the GTM stack is working.",
+  "cover_tags": "Metric / Deadline / Owner / Control",
+  "insight": {"label": "By the numbers", "number": "31.5%", "text": "the true accuracy figure one vendor published for its own top scoring band, the only such number any intent data vendor has shown.", "source": "Source: GTM Tool Time, citing a Demandbase blog post on its Pipeline Predict model. Single customer, single source."},
+  "quote": {"label": "Worth pinning above your desk", "text": "You know it when you see it in the data.", "attribution": "Kelly Megel, fractional CMO, via Cannonball GTM"},
+  "framework": {"title": "Four things every quit rule needs", "subtitle": "Write all four before you sign.", "footer": "No number means no quit rule, whatever the deck promises.", "items": [
+    {"name": "Metric", "question": "What number proves it is working?", "example": "A measured hit rate or lift, not a volume claim."},
+    {"name": "Deadline", "question": "By when do you expect to see it?", "example": "A date on the calendar, not a future renewal."},
+    {"name": "Owner", "question": "Who checks, and who can call it?", "example": "One named person, not a committee."},
+    {"name": "Control", "question": "What group never got the tool?", "example": "A held out team, segment or list to compare against."}]},
+  "alts": {
+    "quote-card.png": "Quote card: You know it when you see it in the data, attributed to Kelly Megel via Cannonball GTM",
+    "insight-card.png": "Large 31.5%: the top band hit rate one vendor published for its own account scoring model, per GTM Tool Time",
+    "framework.png": "Four boxes in order: Metric, Deadline, Owner and Control, each with the question to ask before signing"}
+}
