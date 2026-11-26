@@ -42,6 +42,7 @@
 The paragraph beginning "None of this requires new software" in "The missing mechanism" section leans hardest on the article's own synthesis rather than a reported fact: it asserts that a quit rule "costs nothing to write" and that the barrier "was never technical," which is an editorial claim, not something any source states. It is clearly framed as the author's own argument rather than attributed to a newsletter, so it should not mislead, but it is the thinnest-sourced paragraph in the piece.
 
 ## Alternative titles
+Title changed after first draft, from "The quit rule your GTM stack doesn't have" (43 characters) to "Before you add another GTM tool, write its quit rule" (52 characters), for clarity on what the piece is about. Two further alternatives considered:
 1. Your GTM stack needs a control group (33 characters)
 2. Measure it before you keep it (28 characters)
 
@@ -70,7 +71,7 @@ The paragraph beginning "None of this requires new software" in "The missing mec
 - [x] Collected from the label only, read all editorial threads in full, skip list given with reasons
 - [x] 01-signal-map.md with newsletter and email counts, themes in three or more sources, one underrated idea, one contradiction, three candidate angles with payoffs, one pick with justification
 - [x] Stress test against a sceptical GTM operator, with the two strongest rejected angles shown and why they lost
-- [x] 02-article.md, long-form, about 1,900 words of body text before the sources list; title 43 characters; one-sentence standfirst; byline exactly "By Mohammad H. Rahman" with no title, company or designation; opens with a bold declarative statement then a hook
+- [x] 02-article.md, long-form, about 1,900 words of body text before the sources list; title 52 characters; one-sentence standfirst; byline exactly "By Mohammad H. Rahman" with no title, company or designation; opens with a bold declarative statement then a hook
 - [x] "What this means for your next quarter" with three actions; "Sources and further reading" linking each newsletter used; a memorable final line, then one question inviting comment; 7 hashtags
 - [x] Numbers marked "(per [Newsletter])"; two direct quotes total, each under 15 words, one per source, each attributed; original "View this post on the web" or stated post URLs used for every linked source
 - [x] 03-article-linkedin.html uses only h2, p, strong, em, ul, li, a (no h3, ol or blockquote needed this issue); no inline CSS or scripts; the title is not inside the HTML file; the image marker is an italic placeholder paragraph

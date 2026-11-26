@@ -1,8 +1,8 @@
 **DRAFT: pending Remmy review**
 
-[IMAGE 1: header-cover.png, Cover: The quit rule your GTM stack doesn't have, black type on white with a window bar]
+[IMAGE 1: header-cover.png, Cover: Before you add another GTM tool, write its quit rule, black type on white with a window bar]
 
-# The quit rule your GTM stack doesn't have
+# Before you add another GTM tool, write its quit rule
 
 *A long read on why the GTM stack keeps growing, why almost nobody can prove any one piece of it is working, and the one discipline brand marketing already built that tooling hasn't borrowed yet.*
 
